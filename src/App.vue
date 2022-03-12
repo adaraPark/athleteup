@@ -15,7 +15,7 @@
     <div >Visit The following Pages to learn more about us:</div>
         <router-link to="/about"> About </router-link>
         <router-link to="/termsofservice"> Terms Of Service </router-link>
-        <a class="nav-link" style="color: white;" href="https://github.com/adaraPark/creative">Github Link: https://github.com/adaraPark/creative</a>
+        <a class="nav-link" style="color: white;" href="https://github.com/adaraPark/athleteup">Github Link: https://github.com/adaraPark/athleteup</a>
         <router-link class="navbar-brand" to="/"> AthleteUp </router-link>
     </nav>
   </div>
